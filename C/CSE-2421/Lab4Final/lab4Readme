@@ -1,0 +1,4 @@
+1) Name - Kohl Kuntze
+2) Time needed to complete lab - 30-40 hours
+3) I ended up not using the structs recommended in the lab so my implementation varies slightly from having cumulative grades as a field of the student struct, and cumulative grades are calculated on the fly as the student is printed. As a result options three and five perform the same function once grades are printed to the screen.
+4) I used XCode to produce this lab so I was able to set breakpoints and see what the values of variables were as the code was written, this helped me identify when pointers were being created and used correctly, especially when a variable was passed by reference. This would also tell me when my code was not freeing things properly because it would indicate that I might be freeing a variable for which no space was allocated
