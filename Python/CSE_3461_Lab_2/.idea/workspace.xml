@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2536db86-30ca-4ffd-b3b7-817b5386314d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CSE_4471_Project/CSE_4471_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CryptogrophyClassDecrypter/src/app/DecryptionLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CryptogrophyClassDecrypter/src/dao/DictionaryDataAccessObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CryptogrophyClassDecrypter/src/utils/WordUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GoceryShopHTMLMaker/src/component/RefreshShopIndexComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GoceryShopHTMLMaker/src/dao/IndexFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GoceryShopHTMLMaker/src/dao/IndexFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GoceryShopHTMLMaker/src/model/ProductEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GoceryShopHTMLMaker/src/util/HTMLProductHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GoceryShopHTMLMaker/tst/dao/IndexFileReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InterviewPractice/src/Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab2/Lab2/buffer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LimeInterview/src/QuestionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PhiDeltDues/PhiDeltDues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PhiDeltDues/src/dao/GetIndividualDetailFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PhiDeltDues/src/model/DuesBreakdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PhiDeltDues/src/model/IndividualDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE_5522_Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE_5522_Lab3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE_5522_Lab3/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Robinhood/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Robinhood/app/BuyingComponent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Robinhood/component/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Robinhood/model/Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SytoOrderNotificationEmailSender/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SytoOrderNotificationEmailSender/src/mySqlUtilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SytoOrderNotificationEmailSender/src/orderNotificationSender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TripPlanner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SytoEmailSender/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SytoEmailSender/src/app/SytoOrderNotificationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SytoEmailSender/src/model/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SytoEmailSender/src/util/OrderReaderUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinaryTreeCSE/src/test/isEvenData/TestRangeC" beforeDir="false" afterPath="$PROJECT_DIR$/../../CryptogrophyClassDecrypter/src/dao/DictionaryWords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinaryTreeCSE/src/test/isEvenData/testDataD" beforeDir="false" afterPath="$PROJECT_DIR$/../5522Lab1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandLineInterface/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5522Lab1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandLineInterface/app/OtherApp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandLineInterface/app/WorkflowLauncher.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Robinhood/app/IssueBuy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandLineInterface/model/Orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CSE_5522_Lab3/README.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2111782844">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CSE_3461_Lab_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE_3461_Lab_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSE_3461_Lab_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2536db86-30ca-4ffd-b3b7-817b5386314d" name="Default Changelist" comment="" />
+      <created>1573496725257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573496725257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
